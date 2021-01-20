@@ -24,3 +24,34 @@ C:\Users\Le Cong Minh\Desktop\QLTS\QLTS\QLTS\obj\Debug\netcoreapp3.1\QLTS.genrun
 C:\Users\Le Cong Minh\Desktop\QLTS\QLTS\QLTS\obj\Debug\netcoreapp3.1\QLTS.Account.resources
 C:\Users\Le Cong Minh\Desktop\QLTS\QLTS\QLTS\obj\Debug\netcoreapp3.1\QLTS.MainForm.resources
 C:\Users\Le Cong Minh\Desktop\QLTS\QLTS\QLTS\obj\Debug\netcoreapp3.1\QLTS.Managerment.resources
+C:\Users\ASUS\Desktop\QLTS2\QLTS\bin\Debug\netcoreapp3.1\QLTS.exe
+C:\Users\ASUS\Desktop\QLTS2\QLTS\bin\Debug\netcoreapp3.1\QLTS.deps.json
+C:\Users\ASUS\Desktop\QLTS2\QLTS\bin\Debug\netcoreapp3.1\QLTS.runtimeconfig.json
+C:\Users\ASUS\Desktop\QLTS2\QLTS\bin\Debug\netcoreapp3.1\QLTS.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\QLTS2\QLTS\bin\Debug\netcoreapp3.1\QLTS.dll
+C:\Users\ASUS\Desktop\QLTS2\QLTS\bin\Debug\netcoreapp3.1\QLTS.pdb
+C:\Users\ASUS\Desktop\QLTS2\QLTS\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\QLTS2\QLTS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Desktop\QLTS2\QLTS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Desktop\QLTS2\QLTS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Desktop\QLTS2\QLTS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\QLTS2\QLTS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\QLTS2\QLTS\obj\Debug\netcoreapp3.1\QLTS.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\QLTS2\QLTS\obj\Debug\netcoreapp3.1\QLTS.Account.resources
+C:\Users\ASUS\Desktop\QLTS2\QLTS\obj\Debug\netcoreapp3.1\QLTS.ChangePassword.resources
+C:\Users\ASUS\Desktop\QLTS2\QLTS\obj\Debug\netcoreapp3.1\QLTS.Form1.resources
+C:\Users\ASUS\Desktop\QLTS2\QLTS\obj\Debug\netcoreapp3.1\QLTS.MainForm.resources
+C:\Users\ASUS\Desktop\QLTS2\QLTS\obj\Debug\netcoreapp3.1\QLTS.Managerment.resources
+C:\Users\ASUS\Desktop\QLTS2\QLTS\obj\Debug\netcoreapp3.1\QLTS.Properties.Resources.resources
+C:\Users\ASUS\Desktop\QLTS2\QLTS\obj\Debug\netcoreapp3.1\QLTS.Rawmaterial.resources
+C:\Users\ASUS\Desktop\QLTS2\QLTS\obj\Debug\netcoreapp3.1\QLTS.Revenue.resources
+C:\Users\ASUS\Desktop\QLTS2\QLTS\obj\Debug\netcoreapp3.1\QLTS.Staff.resources
+C:\Users\ASUS\Desktop\QLTS2\QLTS\obj\Debug\netcoreapp3.1\QLTS.Supplier.resources
+C:\Users\ASUS\Desktop\QLTS2\QLTS\obj\Debug\netcoreapp3.1\QLTS.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\QLTS2\QLTS\obj\Debug\netcoreapp3.1\QLTS.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\QLTS2\QLTS\obj\Debug\netcoreapp3.1\QLTS.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\QLTS2\QLTS\obj\Debug\netcoreapp3.1\QLTS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\QLTS2\QLTS\obj\Debug\netcoreapp3.1\QLTS.csproj.CopyComplete
+C:\Users\ASUS\Desktop\QLTS2\QLTS\obj\Debug\netcoreapp3.1\QLTS.dll
+C:\Users\ASUS\Desktop\QLTS2\QLTS\obj\Debug\netcoreapp3.1\QLTS.pdb
+C:\Users\ASUS\Desktop\QLTS2\QLTS\obj\Debug\netcoreapp3.1\QLTS.genruntimeconfig.cache

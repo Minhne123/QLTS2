@@ -1,31 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Le Cong Minh\\OneDrive\\Desktop\\New folder\\QLTS\\QLTS\\QLTS.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\QLTS2\\QLTS\\QLTS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Le Cong Minh\\OneDrive\\Desktop\\New folder\\QLTS\\QLTS\\QLTS.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\QLTS2\\QLTS\\QLTS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Le Cong Minh\\OneDrive\\Desktop\\New folder\\QLTS\\QLTS\\QLTS.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\QLTS2\\QLTS\\QLTS.csproj",
         "projectName": "QLTS",
-        "projectPath": "C:\\Users\\Le Cong Minh\\OneDrive\\Desktop\\New folder\\QLTS\\QLTS\\QLTS.csproj",
-        "packagesPath": "C:\\Users\\Le Cong Minh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Le Cong Minh\\OneDrive\\Desktop\\New folder\\QLTS\\QLTS\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\QLTS2\\QLTS\\QLTS.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\QLTS2\\QLTS\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Le Cong Minh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
