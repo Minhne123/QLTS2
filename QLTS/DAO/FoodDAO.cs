@@ -1,13 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
-
-namespace QLTS.DAO
-{
-    class FoodDA
-    {using QLTS.DTO;
-using System;
-using System.Collections.Generic;
 using System.Data;
 using System.Linq;
 using System.Text;
