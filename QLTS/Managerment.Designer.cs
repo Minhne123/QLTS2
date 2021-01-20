@@ -35,7 +35,6 @@ namespace QLTS
             this.btnStaff = new System.Windows.Forms.Button();
             this.btnRevenue = new System.Windows.Forms.Button();
             this.btnRawmaterial = new System.Windows.Forms.Button();
-            this.btnSupplier = new System.Windows.Forms.Button();
             this.pnlManagament = new System.Windows.Forms.Panel();
             this.pnlOptions.SuspendLayout();
             this.SuspendLayout();
@@ -47,7 +46,6 @@ namespace QLTS
             this.pnlOptions.Controls.Add(this.btnStaff);
             this.pnlOptions.Controls.Add(this.btnRevenue);
             this.pnlOptions.Controls.Add(this.btnRawmaterial);
-            this.pnlOptions.Controls.Add(this.btnSupplier);
             this.pnlOptions.Dock = System.Windows.Forms.DockStyle.Left;
             this.pnlOptions.Location = new System.Drawing.Point(0, 0);
             this.pnlOptions.Name = "pnlOptions";
@@ -80,7 +78,7 @@ namespace QLTS
             // btnRevenue
             // 
             this.btnRevenue.Image = ((System.Drawing.Image)(resources.GetObject("btnRevenue.Image")));
-            this.btnRevenue.Location = new System.Drawing.Point(49, 125);
+            this.btnRevenue.Location = new System.Drawing.Point(49, 160);
             this.btnRevenue.Name = "btnRevenue";
             this.btnRevenue.Size = new System.Drawing.Size(156, 44);
             this.btnRevenue.TabIndex = 2;
@@ -91,24 +89,13 @@ namespace QLTS
             // btnRawmaterial
             // 
             this.btnRawmaterial.Image = ((System.Drawing.Image)(resources.GetObject("btnRawmaterial.Image")));
-            this.btnRawmaterial.Location = new System.Drawing.Point(49, 322);
+            this.btnRawmaterial.Location = new System.Drawing.Point(49, 288);
             this.btnRawmaterial.Name = "btnRawmaterial";
             this.btnRawmaterial.Size = new System.Drawing.Size(156, 43);
             this.btnRawmaterial.TabIndex = 1;
             this.btnRawmaterial.Text = "Nguyên Liệu";
             this.btnRawmaterial.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnRawmaterial.UseVisualStyleBackColor = true;
-            // 
-            // btnSupplier
-            // 
-            this.btnSupplier.Image = ((System.Drawing.Image)(resources.GetObject("btnSupplier.Image")));
-            this.btnSupplier.Location = new System.Drawing.Point(49, 217);
-            this.btnSupplier.Name = "btnSupplier";
-            this.btnSupplier.Size = new System.Drawing.Size(156, 46);
-            this.btnSupplier.TabIndex = 0;
-            this.btnSupplier.Text = "Nhà Cung Cấp";
-            this.btnSupplier.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.btnSupplier.UseVisualStyleBackColor = true;
             // 
             // pnlManagament
             // 
@@ -138,7 +125,6 @@ namespace QLTS
         private System.Windows.Forms.Button btnStaff;
         private System.Windows.Forms.Button btnRevenue;
         private System.Windows.Forms.Button btnRawmaterial;
-        private System.Windows.Forms.Button btnSupplier;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Panel pnlManagament;
     }
